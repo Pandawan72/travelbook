@@ -56,7 +56,7 @@ body {
     background: rgba(0,0,0,0.4);
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
-.overlay {
+.calque-texte-1 {
     font-family: 'Shadows Into Light', cursive;
     position: relative;
     display: flex;
@@ -65,14 +65,14 @@ body {
     gap: 100px; /* spacing régulier */
     text-align: center;
 }
-.overlay h1 {
+.calque-texte-1 h1 {
     font-family: 'Shadows Into Light', cursive;
     font-size: 3.5rem;
     text-shadow:
     1px 1px 1px rgba(255, 255, 255, 0.8),
    -1px -1px 1px rgba(0, 0, 0, 0.3); 
 }
-.overlay p {
+.calque-texte-1 p {
     font-size: 2rem;
 }
 .scroll {
